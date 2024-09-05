@@ -6,7 +6,7 @@ To access advanced scripts and repos, see [Trelis.com](https://Trelis.com/About)
 
 For further support and discussion, consider becoming a lifetime member of the Trelis Research Discord channel (coming soon).
 
-## Organisation
+## Organisation
 
 Contents are sorted into folders according to:
 - Fine-tuning (LLMs)
